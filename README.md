@@ -8,7 +8,9 @@
 ## References and Resources
 
 https://stackoverflow.com/questions/29162820/how-to-create-javadoc-using-android-studio-without-r-and-buildconfig
+
 https://github.com/jitpack/jitpack.io/issues/2258
+
 https://stackoverflow.com/questions/71721535/android-studio-fails-to-generate-javadocs-due-to-packages-not-existing/73102343#73102343
 
 Asked Google Gemini "How to use Junit5 in android studio" on 11-02-2026
