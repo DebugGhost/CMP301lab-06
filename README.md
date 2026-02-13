@@ -29,4 +29,4 @@ Asked OpenAI ChatGPT "how to create javadocs from the terminal only for the city
 
 | Student Name         | CCID         |
 |----------------------|--------------|
-| `<Muhammed Huzaifa>` | `<mhuzaif2>` |
+|  `Muhammed Huzaifa`  |  `mhuzaif2`  |
